@@ -1,0 +1,15 @@
+set bpm 200
+set fps 80
+set tracks 5
+load music test.mp3
+set lines 200
+set border height 20
+set border width 20
+
+tap 1 4 600
+tap 2 3 600
+hold 1 8 9 600
+hold 2 10 12 600
+hold 1 13 16 600
+hold 2 18 30 600
+tap 2 8 600
